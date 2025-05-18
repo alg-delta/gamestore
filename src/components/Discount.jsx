@@ -1,7 +1,7 @@
 import React from "react";
 import Button from "react-bootstrap/esm/Button";
 import data from "../data";
-import Product from "./product";
+import Product from "./Product";
 import { useState } from "react";
 export default function Discount(props) {
   const { add } = props;
