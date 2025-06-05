@@ -14,7 +14,7 @@ export default function Header() {
       <Nav.Link as={NavLink} to="/">Головна сторінка</Nav.Link>
       <Nav.Link as={NavLink} to="/info">Інформація</Nav.Link>
       <Nav.Link as={NavLink} to="/Discounts">Знижки</Nav.Link>
-      <Nav.Link as={NavLink} to="/account replenishment">Поповнення рахунку</Nav.Link>
+{/*       <Nav.Link as={NavLink} to="/account replenishment">Поповнення рахунку</Nav.Link> */}
     </Nav>
   </Container>
 </Navbar>
